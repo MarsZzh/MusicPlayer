@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="start">播放</string>
+    <string name="next">下一首</string>
+    <string name="quiet">退出</string>
+    <string name="time">00:00</string>
+</resources>
